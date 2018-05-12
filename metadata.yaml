@@ -1,4 +1,8 @@
 _repo: Rejtelmek-2-kotet_46563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bródy, Sándor
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42369
     wikipedia: http://hu.wikipedia.org/wiki/Br%C3%B3dy_S%C3%A1ndor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46563#Rejtelmek-2-kotet
 gutenberg_issued: '2014-08-11'
 gutenberg_type: Text
 identifiers:
